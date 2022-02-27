@@ -1,0 +1,25 @@
+.btn-blue {
+  background-color: #3fc455e0;
+  padding: 3px 20px;
+  border-radius: 8px;
+  color: black;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+
+.btn-green {
+  background-color: #DF5E2F;
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: lighter;
+  font-family:'Mukta', sans-serif;
+  margin: 10px;
+  font-size: 15px;
+
+
+
+
+}
